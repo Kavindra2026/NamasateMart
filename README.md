@@ -40,7 +40,7 @@ This project is built to practice full-stack web development using Java technolo
 - Git & GitHub
 - VS Code / Eclipse
 
----
+```
 
 ## 📂 Project Structure
 
@@ -53,7 +53,7 @@ NamasteMarte/
 
 
 
----
+```
 
 ## ⚙️ Setup & Installation
 
